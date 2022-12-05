@@ -1,0 +1,14 @@
+D:\A2\S1\Algo\Projet_Algo_Ariane\Mot_meles_Odoni_LeGall\bin\Debug\netcoreapp3.1\Mot_meles_Odoni_LeGall.exe
+D:\A2\S1\Algo\Projet_Algo_Ariane\Mot_meles_Odoni_LeGall\bin\Debug\netcoreapp3.1\Mot_meles_Odoni_LeGall.deps.json
+D:\A2\S1\Algo\Projet_Algo_Ariane\Mot_meles_Odoni_LeGall\bin\Debug\netcoreapp3.1\Mot_meles_Odoni_LeGall.runtimeconfig.json
+D:\A2\S1\Algo\Projet_Algo_Ariane\Mot_meles_Odoni_LeGall\bin\Debug\netcoreapp3.1\Mot_meles_Odoni_LeGall.runtimeconfig.dev.json
+D:\A2\S1\Algo\Projet_Algo_Ariane\Mot_meles_Odoni_LeGall\bin\Debug\netcoreapp3.1\Mot_meles_Odoni_LeGall.dll
+D:\A2\S1\Algo\Projet_Algo_Ariane\Mot_meles_Odoni_LeGall\bin\Debug\netcoreapp3.1\Mot_meles_Odoni_LeGall.pdb
+D:\A2\S1\Algo\Projet_Algo_Ariane\Mot_meles_Odoni_LeGall\obj\Debug\netcoreapp3.1\Mot_meles_Odoni_LeGall.csproj.AssemblyReference.cache
+D:\A2\S1\Algo\Projet_Algo_Ariane\Mot_meles_Odoni_LeGall\obj\Debug\netcoreapp3.1\Mot_meles_Odoni_LeGall.GeneratedMSBuildEditorConfig.editorconfig
+D:\A2\S1\Algo\Projet_Algo_Ariane\Mot_meles_Odoni_LeGall\obj\Debug\netcoreapp3.1\Mot_meles_Odoni_LeGall.AssemblyInfoInputs.cache
+D:\A2\S1\Algo\Projet_Algo_Ariane\Mot_meles_Odoni_LeGall\obj\Debug\netcoreapp3.1\Mot_meles_Odoni_LeGall.AssemblyInfo.cs
+D:\A2\S1\Algo\Projet_Algo_Ariane\Mot_meles_Odoni_LeGall\obj\Debug\netcoreapp3.1\Mot_meles_Odoni_LeGall.csproj.CoreCompileInputs.cache
+D:\A2\S1\Algo\Projet_Algo_Ariane\Mot_meles_Odoni_LeGall\obj\Debug\netcoreapp3.1\Mot_meles_Odoni_LeGall.dll
+D:\A2\S1\Algo\Projet_Algo_Ariane\Mot_meles_Odoni_LeGall\obj\Debug\netcoreapp3.1\Mot_meles_Odoni_LeGall.pdb
+D:\A2\S1\Algo\Projet_Algo_Ariane\Mot_meles_Odoni_LeGall\obj\Debug\netcoreapp3.1\Mot_meles_Odoni_LeGall.genruntimeconfig.cache
